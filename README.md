@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shaking-Donut
-- 👀 I’m interested in Front-end development of webpages and mobile apps.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in Front-end development and UX/UI design of webpages and mobile apps.
 
 <!---
 Shaking-Donut/Shaking-Donut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
